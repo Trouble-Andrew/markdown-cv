@@ -65,7 +65,7 @@ HTML - CSS - Javascript - PUG - SCSS - Bootstrap - Tailwind - Webpack - Parcel -
 `2006-2011`
 **Communication Technologies and Communication Systems**, _Collage of Telecommunications and Information science_, Novosibirsk, Russia.
 
-### Portfolio
+## Portfolio
 
 [Smart Devices](https://astounding-arithmetic-764b70.netlify.app/)
 
