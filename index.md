@@ -27,6 +27,32 @@ Front-end developer
 `11.2019-01.2022`
 **Front-end developer**, [_Liga A_](https://ligaa.agency/), Saint Petersburg, Russia.
 
+## Courses
+
+`03.2022-present`
+**JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)**
+
+`10.2021-03.2022`
+[**JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)**](https://app.rs.school/certificate/xiz66yif)
+
+`05.2021-05.2022`
+[**freeCodeCamp.org (JavaScript Algorithms and Data Structures)**](https://www.freecodecamp.org/certification/trouble-andrew/javascript-algorithms-and-data-structures)
+
+`02.2020-04.2020`
+[**HTML Academy, Javascript 3**](https://assets.htmlacademy.ru/certificates/intensive/139/117192.pdf?1585689611)
+
+`09.2019-10.2019`
+[**HTML Academy, Javascript 2**](https://assets.htmlacademy.ru/certificates/intensive/137/117192.pdf?1569927193)
+
+`11.2018-12.2018`
+[**HTML Academy, Javascript 1**](https://assets.htmlacademy.ru/certificates/intensive/95/117192.pdf?1549277543)
+
+`09.2018-10.2018`
+[**HTML Academy, HTML and CSS Level 2**](https://assets.htmlacademy.ru/certificates/intensive/91/117192.pdf?1542209056)
+
+`08.2018-09.2018`
+[**HTML Academy, HTML and CSS Level 1**](https://assets.htmlacademy.ru/certificates/intensive/87/117192.pdf?1536945307)
+
 ## Education
 
 `2012-2016`
@@ -43,83 +69,9 @@ _Publication list also available [in Google Scholar](https://scholar.google.fi/c
 
 H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. _Introduction to Python for Geographic Data Analysis_. CRC Press (expected publication in 2022). **_In progress_**, online at [https://pythongis.org/](https://pythongis.org/).
 
-<!--
-### Journal articles, in preparation
--->
-
-### Journal articles
-
-<!--
-**D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Fingerprints of tectonic and erosional processes in modern river sands from the Himalaya of western Bhutan. *Journal of Geophysical Research: Earth Surface*, **In preparation**.
--->
-
-S. Fan, M. Murphy, **D. M. Whipp**, J. Saylor, P. Copeland, A. Hoxey, M. Taylor, and D. Stockli. Megathrust Heterogeneity, Crustal Accretion, and a Topographic Embayment in Western Nepal Himalaya: Insights from the Inversion of Thermochronological Data. _Tectonics_, **under review**.
-
-D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. _Geology_, **in revision**.
-
-`2022`
-**D. M. Whipp**<sup>&dagger;</sup>, D. A. Kellett<sup>&dagger;</sup>, I. Coutand, and R. A. Ketcham. Short communication: Modelling competing effects of cooling rate, grain size and radiation damage in low temperature thermochronometers. _Geochronology_, 4, 143-152, doi: [10.5194/gchron-4-143-2022](https://doi.org/10.5194/gchron-4-143-2022), 2022.
-
-`2021`
-A. E. Rintamäki, G. Hillers, T. A. T. Vuorinen, T. Luhta, J. M. Pownall, C. Tsarsitalidou, K. Galvin, J. Keskinen, J. T. Kortström, T.-C. Lin, P. B. Mäntyniemi, K. J. Oinonen, T. J. Oksanen, P. J. Seipäjärvi, G. Taylor, M. R. Uski, A. I. Voutilainen, and **D. M. Whipp**. A seismic network to monitor the 2020 EGS stimulation in the Espoo/Helsinki area, southern Finland. _Seismological Research Letters_, doi: [10.1785/0220210195](https://doi.org/10.1785/0220210195), 2021.
-
-`2020`
-J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. _Tectonics_. doi: [10.1029/2019TC005886](https://doi.org/10.1029/2019TC005886), 2020.
-
-D. Grujic, K. Ashley, M. Coble, I. Coutand, D. Kellett, K. Larson, **D. M. Whipp**, M. Gao, and N. Whynot. Deformational temperatures across the Lesser Himalayan Sequence in eastern Bhutan and their implications for the deformation history of the Main Central Thrust. _Tectonics_. [10.1029/2019TC005914](https://doi.org/10.1029/2019TC005914), 2020.
-
-`2019`
-A. Koptev, T. A. Ehlers, M. Nettesheim, and **D. M. Whipp**. Response of a rheologically stratified lithosphere to subduction of an indenter-shaped plate: Insights into localized exhumation at orogen syntaxes. _Tectonics_. doi: [10.1029/2018TC005455](https://doi.org/10.1029/2018TC005455), 2019.
-
-**D. M. Whipp** and T. A. Ehlers. Quantifying landslide frequency and sediment residence time in the Nepal Himalaya. _Science Advances_, _5_(4). doi: [10.1126/sciadv.aav3482](https://dx.doi.org/10.1126/sciadv.aav3482), 2019.
-
-`2018`
-M. Nettesheim\*, T. A. Ehlers, **D. M. Whipp**, and A. Koptev. The influence of upper-plate advance and erosion on overriding
-plate deformation in orogen syntaxes. _Solid Earth_, 9, 1207-1224. doi: [10.5194/se-9-1207-2018](https://doi.org/10.5194/se-9-1207-2018), 2018.
-
-`2016`
-K. R. Landry\*, I. Coutand, **D. M. Whipp**, D Grujic, and J. K. Hourigan. Late Neogene tectonically driven crustal exhumation of the Sikkim Himalaya: Insights from inversion of multithermochronologic data. _Tectonics_, _35_(3):833–859. doi: [10.1002/2015TC004102](https://dx.doi.org/10.1002/2015TC004102), 2016.
-
-`2014`
-**D. M. Whipp**, C. Beaumont, and J. Braun. Feeding the 'aneurysm': Orogen-parallel mass transport into Nanga Parbat and the western Himalayan syntaxis. _Journal of Geophysical Research: Solid Earth_, _119_(6):5077–5096. doi: [10.1002/2013JB010929](https://dx.doi.org/10.1002/2013JB010929), 2014.
-
-M. A. Murphy, M. H. Taylor, J. Gosse, C. R. P. Silver, **D. M. Whipp**, and C. Beaumont. Limit of strain partitioning in the Himalaya marked by large earthquakes in western Nepal. _Nature Geoscience_, _7_(1):38–42. doi: [10.1038/ngeo2017](https://dx.doi.org/10.1038/ngeo2017), 2014.
-
-I. Coutand, **D. M. Whipp**, D. Grujic, M. Bernet, M. G. Fellin, B. Bookhagen, K. R. Landry, S. K. Ghalley, and C. Duncan. Geometry and kinematics of the Main Himalayan Thrust and Neogene crustal exhumation in the Bhutanese Himalaya derived from inversion of multithermochronologic data. _Journal of Geophysical Research: Solid Earth_, _119_(2):1446–1481. doi: [10.1002/2013JB010891](https://dx.doi.org/10.1002/2013JB010891), 2014.
-
-`2009`
-**D. M. Whipp**, T. A. Ehlers, J. Braun, and C. D. Spath. Effects of exhumation kinematics and topographic evolution on detrital thermochronometer data. _Journal of Geophysical Research: Earth Surface_, _114_(F4). doi: [10.1029/2008JF001195](https://dx.doi.org/10.1029/2008JF001195), 2009.
-
-T. F. Schildgen, T. A. Ehlers, **D. M. Whipp**, M. C. van Soest, K. X. Whipple, and K. V. Hodges. Quantifying canyon incision and Andean Plateau surface uplift, southwest Peru: A thermochronometer and numerical modeling approach. _Journal of Geophysical Research: Earth Surface_, _114_(F4). doi: [10.1029/2009JF001305](https://dx.doi.org/10.1029/2009JF001305), 2009.
-
-`2007`
-**D. M. Whipp** and T. A. Ehlers. Influence of groundwater flow on thermochronometer-derived exhumation rates in the central Nepalese Himalaya. _Geology_, _35_(9):851–854. doi: [10.1130/G23788A.1](https://dx.doi.org/10.1130/G23788A.1), 2007.
-
-K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, exhumation pathway, age uncertainties, and the interpretation of erosion rates from thermochronometer data. _Tectonics_, _26_(4) . doi: [10.1029/2007TC002108](http://dx.doi.org/10.1029/2007TC002108), 2007.
-
-**D. M. Whipp**, T. A. Ehlers, A. E. Blythe, K. W. Huntington, K. V. Hodges, and D. W. Burbank. Plio-Quaternary exhumation history of the central Nepalese Himalaya: 2. Thermo-kinematic and thermochronometer age prediction model. _Tectonics_, _26_(3). doi: [10.1029/2006TC001991](https://dx.doi.org/10.1029/2006TC001991), 2007.
-
 ### Software
 
 **D. M. Whipp** and R. A. Ketcham. tcplotter: a Python package for creating and customizing thermochronometer age and closure temperature plots. doi: [10.5281/zenodo.5958939](https://doi.org/10.5281/zenodo.5958939).
-
-## Grants and funding
-
-_Funding includes only amounts over 5000€_
-
-<!--
-
-### Under review
-
-`2022-2026`
-**Research infrastructure funding**, *Academy of Finland*, Finland, 440 558€ (Project total: 1 735 558€). Consortium PI.<br/>
-DATA-EPOS: Modern and efficient metadata and data handling platforms for FIN-EPOS
-
-
-**Academy Project**, *Academy of Finland*, Finland, 599 648€. Sole PI.<br/>
-Extracting the Record of mountain Erosion processes COntained in River Detritus (E-RECORD)
-
--->
 
 ### Research funding
 
