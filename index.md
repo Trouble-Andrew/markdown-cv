@@ -8,7 +8,7 @@ title: Andrey Terekhov's CV
 Front-end developer
 
 <div id="webaddress">
-  <a href="isaac@applesdofall.org">
+  <a href="mailto:at1349@protonmail.com">
     <i class="fa-solid fa-envelope"></i>
     at1349@protonmail.com
   </a>
@@ -22,6 +22,11 @@ Front-end developer
   </a>
 </div>
 
+## Experience
+
+`11.2019-01.2022`
+**Front-end developer**, [_Liga A_](https://ligaa.agency/), Saint Petersburg, Russia.
+
 ## Education
 
 `2012-2016`
@@ -29,38 +34,6 @@ Front-end developer
 
 `2006-2011`
 **Communication Technologies and Communication Systems**, _Collage of Telecommunications and Information science_, Novosibirsk, Russia.
-
-## Experience
-
-`2021-present`
-**Professor**, _Department of Geosciences and Geography, and Helsinki Institute of Sustainability Science (HELSUS), University of Helsinki_, Helsinki, Finland.
-
-`2013-2023`
-**Adjunct of the Faculty of Graduate Studies**, _Department of Earth Sciences, Dalhousie University_, Halifax, NS, Canada.
-
-`2017-2020`
-**Associate professor**, _Department of Geosciences and Geography, University of Helsinki_, Helsinki, Finland.
-
-`2013-2016`
-**Assistant professor**, _Department of Geosciences and Geography, University of Helsinki_, Helsinki, Finland.
-
-`2009-2012`
-**Postdoctoral fellow**, _Department of Oceanography, Dalhousie University_, Halifax, NS, Canada.
-
-`2008-2009`
-**Postdoctoral fellow**, _Géosciences Rennes, University of Rennes 1_, Rennes, France.
-
-`2007`
-**Geoscientist (intern)**, _ExxonMobil Exploration Company_, Houston, TX, USA.
-
-`2003-2008`
-**Research assistant**, _Department of Geological Sciences, University of Michigan_, Ann Arbor, MI, USA.
-
-`2001-2003`
-**Laboratory assistant**, _Department of Geological Sciences, University of Michigan_, Ann Arbor, MI, USA.
-
-`2000-2002`
-**Tech consultant and Sites rover**, _Campus Computing Sites, University of Michigan_, Ann Arbor, MI, USA.
 
 ## Publications
 
