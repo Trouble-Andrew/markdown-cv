@@ -68,13 +68,17 @@ HTML - CSS - Javascript - PUG - SCSS - Bootstrap - Tailwind - Webpack - Parcel -
 ### Portfolio
 
 [Smart Devices](https://astounding-arithmetic-764b70.netlify.app/)
+
 [GJK Bank](https://effortless-lollipop-274da7.netlify.app)
+
 [Cozy House Shelter](https://effulgent-sundae-d1a4c3.netlify.app)
+
 [Photographer portfolio](https://infallible-hamilton-d7f979.netlify.app/)
 
 ## Languages
 
 Native: Russian
+
 Basic: English (B1)
 
 <!-- ## Personal
