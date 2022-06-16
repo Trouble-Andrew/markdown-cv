@@ -24,7 +24,7 @@ Front-end developer
 
 ## Skills
 
-HTML | CSS | Javascript | PUG | SCSS | Bootstrap | Tailwind | Webpack | Parcel | Vite | Git | BEM | React | Redux | Typescript
+HTML - CSS - Javascript - PUG - SCSS - Bootstrap - Tailwind - Webpack - Parcel - Vite - Git - BEM - React - Redux - Typescript
 
 ## Experience
 
