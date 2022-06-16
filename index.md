@@ -12,28 +12,23 @@ Front-end developer
     <i class="fa-solid fa-envelope"></i>
     at1349@protonmail.com
   </a>
-  | <a href="isaac@applesdofall.org">
+  | <a href="https://t.me/global_trouble">
     <i class="fa-brands fa-telegram"></i>
-    https://t.me/global_trouble
+    @global_trouble
   </a>
-  | <a href="isaac@applesdofall.org">
+  | <a href="https://github.com/trouble-andrew">
     <i class="fa-brands fa-github"></i>
     https://github.com/trouble-andrew
   </a>
-  | <a href="isaac@applesdofall.org">
-    <i class="fa-brands fa-github"></i>
-    https://github.com/trouble-andrew
-  </a>
-  |
 </div>
 
 ## Education
 
-`2003-2008`
-**Ph.D., Geology**, _University of Michigan_, Ann Arbor, MI, USA.
+`2012-2016`
+**Infocommunication Technologies & Communication Systems**, _Far Eastern State Transport University_, Khabarovsk, Russia.
 
-`1998-2002`
-**B.S., Geology (Physics minor)**, _University of Michigan_, Ann Arbor, MI, USA.
+`2006-2011`
+**Communication Technologies and Communication Systems**, _Collage of Telecommunications and Information science_, Novosibirsk, Russia.
 
 ## Experience
 
